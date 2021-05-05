@@ -22,3 +22,4 @@ https://app.diagrams.net/#G1QvOJwgrYCVxdaGZ3Cjly-_vibKC5DVwu
 * Use Javascript.
 * Use HTML.
 * Use Bootstrap. 
+* Use https://openweathermap.org API
