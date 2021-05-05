@@ -1,4 +1,4 @@
-const API_KEY = '64744ab32f9d2e85886be2c5182fa32c';
+const API_KEY = 'your-key';
 
 const getWeatherInfo = (city) => {
     const URL = 'https://api.openweathermap.org/data/2.5/weather';
